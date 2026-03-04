@@ -1,2 +1,1 @@
-# this is my fullstack project that looks like video streaming platform.
-
+# This project is related to video uploading and streaming Platform!
